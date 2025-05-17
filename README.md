@@ -1,27 +1,52 @@
-Akash Studio Photography is a full-service photography and cinematography studio, combining visual artistry with post-production excellence to deliver world-class imagery.
+# 📸 Akash Studio Photography
 
-We specialize in wedding, fashion, event, and commercial photography, backed by a professional-grade workflow that leverages the Adobe Creative Suite to ensure every shot meets the highest standard of quality and storytelling.
+**Akash Studio Photography** is a full-service photography and cinematography studio, combining visual artistry with post-production excellence to deliver world-class imagery.
 
-Our GitHub profile showcases digital initiatives — from online portfolio development and booking systems to asset management tools and creative automation.
+We specialize in **wedding, fashion, event, and commercial photography**, supported by a professional-grade workflow that leverages the **Adobe Creative Suite** to meet the highest standards of storytelling and quality.
 
-🎨 Tools & Technologies
-Adobe Photoshop – Advanced retouching, compositing, and color grading
+Our GitHub showcases digital initiatives — from custom portfolio sites and client booking systems to asset delivery tools and creative workflow automation.
 
-Adobe Lightroom – High-volume image processing and style consistency
+---
 
-Adobe Premiere Pro – Professional video editing and storytelling
+## 🎨 Creative Tools We Use
 
-Adobe After Effects – Cinematic motion graphics and post-production FX
+| Tool                     | Description                                                   |
+|--------------------------|---------------------------------------------------------------|
+| 🖼️ **Photoshop**         | Retouching, color grading, compositing                        |
+| 📷 **Lightroom**         | High-volume editing and color workflow                        |
+| 🎬 **Premiere Pro**      | Cinematic video editing and storytelling                      |
+| ✨ **After Effects**      | Motion graphics and visual effects                            |
+| 🖍️ **Illustrator**       | Brand assets, design elements, and vector work                |
+| 📚 **InDesign**          | Album design, prints, marketing collateral                    |
 
-Adobe Illustrator – Branding, layout, and visual design assets
+---
 
-Adobe InDesign – Album design and marketing collateral
+## 🛠️ Supporting Tools & Integrations
 
-We also integrate with:
+| Tool                     | Purpose                                                       |
+|--------------------------|---------------------------------------------------------------|
+| ☁️ **Cloudinary**         | Optimized media hosting & delivery                            |
+| 📂 **Google Drive / Dropbox** | Asset sharing and client delivery                           |
+| ✅ **Notion & Trello**     | Creative project planning and team collaboration              |
 
-Cloudinary – Image hosting and optimization
+---
 
-Google Drive / Dropbox – Client delivery & asset sharing
+## 📸 Our Gear
 
-Notion & Trello – Project planning and creative collaboration
+| Category           | Examples                                                   |
+|--------------------|------------------------------------------------------------|
+| 📷 **Cameras**       | Canon / Sony DSLR & Mirrorless                            |
+| 🎥 **Video Rigs**    | Stabilized 4K cameras with cinematic lenses               |
+| 🎯 **Lenses**        | Wide-angle, prime, telephoto, macro                        |
 
+---
+
+## 🔗 Connect With Us
+
+🌐 [Website](https://www.akashstudiophotography.com)  
+📸 [Instagram](https://instagram.com/akashstudiophotography)  
+📧 [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+> _"You don't take a photograph, you make it."_ – Ansel Adams
